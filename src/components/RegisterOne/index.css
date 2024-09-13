@@ -1,0 +1,50 @@
+.register-cont {
+  display: flex;
+  align-items: center;
+}
+
+.register-image {
+  width: 35vw;
+}
+
+.form-cont {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-heading {
+  color: #334155;
+  font-size: 32px;
+  font-weight: 700;
+  margin: 0px;
+  margin-bottom: 16px;
+}
+
+.label-one {
+  color: #64748b;
+  font-size: 10px;
+  font-weight: 500;
+}
+
+.input-one {
+  width: 18vw;
+  margin-bottom: 16px;
+  border: 1px solid #7b8794;
+  border-radius: 4px;
+  margin-top: 4px;
+  padding: 8px;
+  font-size: 12x;
+  font-weight: 500;
+}
+
+.again-button {
+  align-self: flex-start;
+  margin-top: 8px;
+}
+
+.error-para {
+  color: #ff0b37;
+  font-size: 8px;
+  font-weight: 500;
+  margin: 0px;
+}
